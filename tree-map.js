@@ -6,6 +6,15 @@ Available resources for this prompt
 MDN
 */
 
+
+
+function map(Map.prototype.values(map)){
+
+
+
+
+
+};
 /**
   *
   * Implement a `map` method on this Tree class, using pseudoclassical instantiation.
